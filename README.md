@@ -1,6 +1,12 @@
 # Forum-etudiants-esgis
 Forum des étudiants d'ESGIS
 
+## Membres du groupe
+- AKODA
+- BILEOU
+- GOTOMA
+- NOULETAME
+
 ## Objectif
 Nous souhaitons nous doter d'un forum des étudiants.
 
